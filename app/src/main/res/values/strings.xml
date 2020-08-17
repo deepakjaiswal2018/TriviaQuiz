@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TriviaQuiz</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="question_cyclone">Cyclones spin in a clockwise direction in the southern hemisphere.</string>
+
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+
+    <string name="question_goldfish">Goldfish only have a memory of three seconds.</string>
+    <string name="question_octopus">An octopus has five hearts.</string>
+    <string name="question_stephen_hawking"><b> Stephen Hawking</b> declined a knighthood from the Queen.</string>
+    <string name="question_religion">Freedom of religion means:
+        \n \t <b>You can practice any religion, or not practice a religion</b>.</string>
+    <string name="question_great_wall">The Great Wall of China is visible from space.</string>
+    <string name="question_aeroplane">Flying in an aeroplane is statistically safer than driving in a car.</string>
+    <string name="question_government_senators">There are one hundred (100) U.S. Senators.</string>
+    <string name="question_developer_name"><b>Deepak Jaiswal</b> has developed the <b>TriviaQuiz</b> App.</string>
+</resources>
